@@ -1,1 +1,1 @@
-https://vokmilk.github.io/rsschool-2019Q1-cv/cv
+https://github.com/Vokmilk/rsschool-cv/blob/gh-pages/cv.md
